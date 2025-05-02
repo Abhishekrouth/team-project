@@ -1,2 +1,2 @@
 #testing
-this file is for testing purposes only
+this file is for testing purposes
