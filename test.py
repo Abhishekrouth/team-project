@@ -5,4 +5,5 @@ testing revert changes git revert command
 
 
 
-## testing git resert command
+## testing git resert commmand 
+## testing git reset command
