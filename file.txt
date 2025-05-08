@@ -1,0 +1,5 @@
+HEAD
+This is a conflicting change in dev branch
+
+This is File
+Raj
